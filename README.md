@@ -10,6 +10,8 @@
 * nmc_met_graphics: `pip install nmc_met-graphics`
 * rpy2: `pip install rpy2`, 以及R语言环境和qmap程序库(install.packages("qmap"))
 
+此外, 运行程序需要samples数据，由于数据量比较大，需要的请联系 tangjian@cma.gov.cn
+
 ---
 
 > 国家气象中心客观预报关键技术实习：定量降水频率拟合、集合概率匹配等技术的实习（4学时）
