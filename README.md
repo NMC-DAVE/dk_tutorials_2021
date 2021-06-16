@@ -1,8 +1,7 @@
-# dk_tutorials_2021
-2021年统计后处理培训教程
+# 2021年统计后处理培训教程
 ---
 
-需要安装的依赖库:
+## 需要安装的依赖库:
 * Anaconda Python环境, https://www.anaconda.com/products/individual
 * cartopy: `conda install -c conda-forge cartopy`
 * numba: `conda install -c numba numba`
